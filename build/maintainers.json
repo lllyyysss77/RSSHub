@@ -6105,9 +6105,8 @@
   ],
   "/oschina/u/:uid": [],
   "/oschina/user/:id": [],
-  "/oshwhub/explore/:type?/:origin?/:projectTag{.+}?": [
-    "tylinux",
-    "nczitzk"
+  "/oshwhub/:sortType?": [
+    "tylinux"
   ],
   "/osu/latest-ranked/:routeParams?": [
     "nfnfgo"
